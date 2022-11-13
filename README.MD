@@ -1,4 +1,4 @@
-# Detecting objects using openCV and sift
+# Detecting shapes with OpenCV, and getting all the important information in a DataFrame
 
 <img src="https://github.com/hansalemaos/screenshots/raw/main/findshapes_1.png"/>
 <img src="https://github.com/hansalemaos/screenshots/raw/main/findshapes_2.png"/>
